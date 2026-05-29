@@ -1,4 +1,4 @@
-# Combat Arena - Progetto Finale Java SE
+# Combat Arena - Progetto Finale Java
 
 ## 1. Panoramica del Progetto
 Il progetto consiste in un'applicazione sviluppata in Java che simula un'arena di combattimento fantasy gestionale. L'utente può creare un'armata di eroi (fino a un massimo di 5 personaggi scelti tra varie classi come Guerriero, Mago, Ladro, Cavaliere, Orco, Schiavo), potenziarne le statistiche spendendo le monete guadagnate, acquistare o vendere oggetti consumabili ed equipaggiamenti presso un mercante, e farli combattere.
