@@ -1,0 +1,2 @@
+magosalvato1,Mage,76,30,5,12,15,00
+luca,Warrior,150,20,15,8,10,00
